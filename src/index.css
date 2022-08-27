@@ -1,0 +1,15 @@
+#editor #textarea{
+  background-color:burlywood;
+  color:black;
+}
+
+#preview{
+  overflow:auto;
+  max-width:55%;
+  max-height:auto;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:burlywood;
+  border:1px solid black;
+
+}
