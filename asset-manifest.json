@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FCCProject2Frontend/static/css/main.d908ae23.css",
+    "main.js": "/FCCProject2Frontend/static/js/main.37671ccb.js",
+    "index.html": "/FCCProject2Frontend/index.html",
+    "main.d908ae23.css.map": "/FCCProject2Frontend/static/css/main.d908ae23.css.map",
+    "main.37671ccb.js.map": "/FCCProject2Frontend/static/js/main.37671ccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d908ae23.css",
+    "static/js/main.37671ccb.js"
+  ]
+}
