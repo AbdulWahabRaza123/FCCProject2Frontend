@@ -1,5 +1,6 @@
 {
   "name": "reactapp",
+  "homepage": "https://abdulwahabraza123.github.io/FCCProject2Frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
+    "jquery": "^3.6.1",
     "marked": "^4.0.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
